@@ -2,7 +2,7 @@
 (backend-dev)
 
 Those tags bellow are say about me, but am try to make it less words:
-#colleger. #backend. #java #spring-boot. #rest-api. #my-sql. #c#. #web-dev. #mvc. #jlpt-N4. #english-ok. #fresher.
+#colleger. #backend. #java #spring-boot. #rest-api. #my-sql. #c#. #web-dev. #mvc. #jlpt-N4. #english-ok. #fresher. #azure-deploy.
 
 Am usual use java as it a language that i use at school, c# also but it just started. However c# are nice so i'll try it more.
 
